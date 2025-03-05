@@ -1,2 +1,2 @@
 
-Made with :fire: and TypeScript.
+Made with :fire: and JavaScript.
